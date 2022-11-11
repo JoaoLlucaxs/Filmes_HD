@@ -4,7 +4,7 @@
 
 ##  📌 Explicando Projeto
     Consumo da API do theMovieDB, para criação de site
-    de filmes,podendo favoritas e ver seus trailer,
+    de filmes,podendo favoritar e ver seus trailer,
     para saber mais sobre a API entre no site : https://www.themoviedb.org/?language=pt-BR
 
 # ⚡ Tecnologias usadas:
