@@ -26,13 +26,13 @@ Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando 
 ### `git clone (projeto)`
 ### `npm init` or yarn
 
-
 # O que será implementado na próxima sprint?
+     # Inserir lixeira para excluir favoritos
 
 ### Projeto finalizado!
 
 
- # 🎯 Status do projeto - Ajuste do carrosel
+ # 🎯 Status do projeto - 90% completo
 
- <img src='./src/Assets/filmes.gif' alt='pré visualização'/>
+ <img src='./src/Assets/filmesatua.gif' alt='pré visualização'/>
 

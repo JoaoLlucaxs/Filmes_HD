@@ -20,15 +20,14 @@ header {
 
 .loading {
   display: flex;
-  justify-content: center;
   align-items: center;
   margin-top: 14px;
   color: #fff;
 }
 
 .Container {
-  display: flex;
-  justify-content: space-around;
+  display: grid;
+  grid-template-columns: auto auto auto;
   background: rgb(102, 13, 13);
 }
 @media (max-width: 900px) {
@@ -40,7 +39,7 @@ header {
 }
 .Container img {
   width: 400px;
-  height: 450px;
+  height: 400px;
   padding: 10px;
 }
 
@@ -62,15 +61,6 @@ header {
 .title_movie {
   color: #fff;
   border-bottom: 1px solid #fff;
-}
-
-.inner {
-  display: flex;
-}
-
-.carrousel {
-  cursor: grabbing;
-  overflow: hidden;
 }
 
 .not-found {
